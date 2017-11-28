@@ -1,0 +1,32 @@
+{
+  "groups" :[
+    {
+      "groupname": "dm",
+      "groupappid": "dmappid",
+      "groopmember": [
+        {
+          "membername": "gaoqiang",
+          "phonenumber": "123"
+        },
+        {
+          "membername": "lipeng",
+          "phonenumber": "3456"
+        }
+      ]
+    },
+    {
+      "groupname": "hadoop",
+      "groupappid": "hadoopappid",
+      "groopmember": [
+        {
+          "membername": "zhangyaj",
+          "phonenumber": "6789"
+        },
+        {
+          "membername": "sunjing",
+          "phonenumber": "8912"
+        }
+      ]
+    }
+  ]
+}
